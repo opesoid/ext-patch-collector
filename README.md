@@ -1,6 +1,6 @@
 # ⚠️ IMPORTANT NOTICE ⚠️
 
-## **As of 15th April 2026 this project will no longer be maintained via GiutHub and may be out of date.**
+## **As of 15th April 2026 this project will no longer be maintained via GitHub and may be out of date.**
 
 **I will update this extension exclusively via the [Chrome Web Store](https://chromewebstore.google.com/detail/patch-collector/oimeamnghaeobjknbcgjmcpheplnmjpg) from now on. Moving forward, this project will no longer be open-source.**
 
